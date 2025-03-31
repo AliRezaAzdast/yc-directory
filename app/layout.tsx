@@ -1,3 +1,5 @@
+
+
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { Geist, Geist_Mono } from "next/font/google";
@@ -36,8 +38,8 @@ const workSans = localFont({
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Black.ttf",
-      weight: "900",
+      path: "./fonts/WorkSans-Light.ttf",
+      weight: "300",
       style: "normal",
     },
     {
